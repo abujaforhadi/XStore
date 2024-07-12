@@ -12,15 +12,15 @@ const Contact = () => {
         <div className=" flex flex-col gap-4 mt-8 mb-14">
           <div className=" flex items-center gap-4">
             <img src="/public/assets/phone.svg" alt="" />
-            <p className=" text-lg text-gray-600">+26378390400-4</p>
+            <p className=" text-lg text-gray-600">+017*********-4</p>
           </div>
           <div className=" flex items-center gap-4">
             <img src="/public/assets/email.svg" alt="" />
-            <p className=" text-lg text-gray-600">anbvuksh@gmail.com</p>
+            <p className=" text-lg text-gray-600">abujaforhadi@gmail.com</p>
           </div>
           <div className=" flex items-center gap-4">
             <img src="/public/assets/location.svg" alt="" />
-            <p className=" text-lg text-gray-600">Dhaka 12938,abc road,Bangladesh</p>
+            <p className=" text-lg text-gray-600">Dhaka,Bangladesh</p>
           </div>
         </div>
       </div>
